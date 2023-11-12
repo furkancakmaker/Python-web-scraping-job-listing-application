@@ -1,4 +1,4 @@
-Python ile okuduğunuz bölüme göre internetteki iş ilanlarını getirip masaüstüne bildirim göndere bir web kazıma uygulamasıdır. 
+Python ile okuduğunuz bölüme göre internetteki iş ilanlarını getirip masaüstüne bildirim gönderen bir web kazıma uygulamasıdır. 
 
 
 
